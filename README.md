@@ -1,1 +1,1 @@
-# Snake-gane-
+# Snake-game-
